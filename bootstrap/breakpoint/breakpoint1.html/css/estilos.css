@@ -1,0 +1,13 @@
+.nav-item a{
+    color: #fff;
+}
+.nav-link:hover {
+    color: #fff;
+}
+#cajas{
+    margin-top: 150px;
+}
+.card-imagen{
+    display: block;
+    margin: 0 auto;
+}

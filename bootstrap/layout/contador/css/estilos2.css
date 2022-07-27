@@ -1,0 +1,25 @@
+
+body{
+    background-color: rgba(217, 85, 80);
+    
+}
+.bg-boton{
+    background-color: rgba(221, 102, 98);
+}
+.timer{
+    font-size: 7em;
+    font-weight: 600;
+}
+.boton-start{
+    border-bottom: 5px solid #ccc;
+    font-size: 1em;
+    color: #d95550;
+}
+.btn.active{
+    background-color: rgb(139, 86, 84);
+    border: 0;
+}
+.boton-tarea{
+    border: dashed 2px gray;
+    background-color: #C34C48 ;
+}
